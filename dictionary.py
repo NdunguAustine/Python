@@ -35,7 +35,7 @@ def check_win(player,computer):
     #             if computer=="scissors":
     #                return "Rock smashes scissors, You win!!!"
     #         else:
-    #             return "Paper covers rock. You lose."
+    #             return "Paper covers rock. You lose.c"
 check_win("rock","paper")
 
 #formatted strings
